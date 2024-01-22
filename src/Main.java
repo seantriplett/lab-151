@@ -14,7 +14,7 @@ public class Main {
 
         // Output opening statement
         System.out.println("This code will calculate the future population in a number of years based on the current population, seconds between births, seconds between deaths, and seconds between immigrations.");
-        // Setup scanner
+        //Setup scanner
         Scanner input = new Scanner(System.in);
         // Prompt and scan for seconds between births, deaths, and immigrations, current population, and number of years
         System.out.println("How many seconds between births?");
