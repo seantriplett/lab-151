@@ -5,7 +5,7 @@
 // Problem Statement:  Calculate and output the future population based on information given by the user.
 // Input: Seconds between births, seconds between deaths, seconds between immigrations, current population, number of years in the future
 // Output:  The future population.
-// Credits: N/A
+//Credits: N/A
 
 import java.util.Scanner;
 
